@@ -1,0 +1,15 @@
+body {
+    font-family: 'PT Sans Narrow', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+h2 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
